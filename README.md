@@ -1,1 +1,2 @@
-# holbertonschool-chatgpt-introduction
+README for project Chatgpt
+
